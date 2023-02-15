@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompatibleVersion</key>
+	<integer>1</integer>
+	<key>RawQuery</key>
+	<string>(((** = "priv+6b@bev*"cdw)) &amp;&amp; ((kMDItemDisplayName = "priv+6b@bev*"cdw)) &amp;&amp; (kMDItemFSInvisible = *))</string>
+	<key>RawQueryDict</key>
+	<dict>
+		<key>FinderFilesOnly</key>
+		<false/>
+		<key>RawQuery</key>
+		<string>(((** = "priv+6b@bev*"cdw)) &amp;&amp; ((kMDItemDisplayName = "priv+6b@bev*"cdw)) &amp;&amp; (kMDItemFSInvisible = *))</string>
+		<key>SearchScopes</key>
+		<array>
+			<string>kMDQueryScopeComputer</string>
+			<string>kMDQueryScopeNetworkIndexed</string>
+		</array>
+		<key>UserFilesOnly</key>
+		<false/>
+	</dict>
+	<key>SearchCriteria</key>
+	<dict>
+		<key>FXCriteriaSlices</key>
+		<array>
+			<dict>
+				<key>criteria</key>
+				<array>
+					<string>com_apple_UserSearchStringAttribute</string>
+					<integer>104</integer>
+				</array>
+				<key>displayValues</key>
+				<array>
+					<string>Items matching text</string>
+					<string>priv+6b@bev</string>
+				</array>
+				<key>rowType</key>
+				<integer>0</integer>
+				<key>subrows</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>criteria</key>
+				<array>
+					<string>kMDItemDisplayName</string>
+					<integer>120</integer>
+					<integer>104</integer>
+				</array>
+				<key>displayValues</key>
+				<array>
+					<string>Name</string>
+					<string>matches</string>
+					<string>priv+6b@bev</string>
+				</array>
+				<key>rowType</key>
+				<integer>0</integer>
+				<key>subrows</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>criteria</key>
+				<array>
+					<string>com_apple_SearchSystemFilesAttribute</string>
+					<integer>1220</integer>
+				</array>
+				<key>displayValues</key>
+				<array>
+					<string>SEARCH_SYSTEM_FILES</string>
+					<string>YES</string>
+				</array>
+				<key>rowType</key>
+				<integer>0</integer>
+				<key>subrows</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>criteria</key>
+				<array>
+					<string>kMDItemFSInvisible</string>
+					<integer>1802</integer>
+				</array>
+				<key>displayValues</key>
+				<array>
+					<string>File invisible</string>
+					<string>visible or invisible</string>
+				</array>
+				<key>rowType</key>
+				<integer>0</integer>
+				<key>subrows</key>
+				<array/>
+			</dict>
+		</array>
+		<key>FXScope</key>
+		<integer>1396929382</integer>
+		<key>FXScopeArrayOfPaths</key>
+		<array>
+			<string>kMDQueryScopeComputer</string>
+			<string>kMDQueryScopeNetworkIndexed</string>
+		</array>
+	</dict>
+	<key>SuggestedAttributes</key>
+	<array/>
+	<key>ViewSettings</key>
+	<dict>
+		<key>WindowState</key>
+		<dict>
+			<key>ContainerShowSidebar</key>
+			<true/>
+			<key>ShowSidebar</key>
+			<true/>
+			<key>ShowStatusBar</key>
+			<true/>
+			<key>ShowTabView</key>
+			<false/>
+			<key>ShowToolbar</key>
+			<true/>
+			<key>WindowBounds</key>
+			<string>{{260, 323}, {920, 464}}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
